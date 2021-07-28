@@ -17,6 +17,7 @@ class CiSetupTests: XCTestCase {
     
     func testExample() {
         let i = 0
+        print(i)
         XCTAssert(i==0)
     }
 }
